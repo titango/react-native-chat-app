@@ -1,0 +1,18 @@
+{
+  "name": "react-native-chat-app",
+  "version": "1.0.0",
+  "description": "React native chat app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titango/react-native-chat-app.git"
+  },
+  "author": "Thinh Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/titango/react-native-chat-app/issues"
+  },
+  "homepage": "https://github.com/titango/react-native-chat-app#readme"
+}
